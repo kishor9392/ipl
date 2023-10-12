@@ -1,0 +1,49 @@
+.tg {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tb {
+  display: flex;
+  flex-direction: column;
+}
+
+.bt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  width: 100%;
+}
+
+.tImg {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.last {
+  margin-top: 20px;
+}
+
+.par {
+  font-family: 'Bree Serif';
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.cat {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

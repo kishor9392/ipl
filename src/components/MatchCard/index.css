@@ -1,0 +1,41 @@
+.lion {
+  list-style-type: none;
+  background-color: #0f172a;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  margin: 10px;
+  width: 350px;
+  height: 500px;
+}
+
+.deer {
+  height: 130px;
+}
+
+.x1 {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.x2 {
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.x4 {
+  font-family: 'Bree Serif';
+  font-size: 22px;
+  color: #e31a1a;
+}
+
+.x3 {
+  font-family: 'Bree Serif';
+  font-size: 22px;
+  color: #18ed66;
+}
